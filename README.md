@@ -1,4 +1,4 @@
-Costco 621 Location Analysis
+### Costco 621 Location Analysis
 
 This repository contains a quantitative analysis of retail fuel pricing trends and cost scenarios within SWFL.
 Project Structure
