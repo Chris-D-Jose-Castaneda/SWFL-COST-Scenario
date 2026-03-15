@@ -10,3 +10,7 @@ Project Structure
     QAnalysis.ipynb: Jupyter Notebook featuring the data processing, visualizations, and quantitative models.
 
     Retail Fuel Pricing Report.pdf: A comprehensive summary report of the study's findings and regional insights.
+
+    Retail Fuel Pricing Powerpoint (pptx): A verh brief slideshow regarding the results 
+
+
